@@ -1,0 +1,20 @@
+# Audio / video - ne gurati na GitHub
+*.mp3
+*.mp4
+*.wav
+*.ogg
+*.m4a
+*.mov
+*.webm
+*.avi
+*.mkv
+
+# Rizični lokalni asseti
+media/original-posters/
+media/trailers/
+media/audio/
+media/fanart/
+media/copyright-risk/
+
+*-local.html
+local/
